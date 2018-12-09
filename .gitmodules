@@ -1,0 +1,3 @@
+[submodule "kashf"]
+	path = kashf
+	url = https://github.com/hashtroodiam/kashf.git
